@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_width">300dp</dimen>
+    <dimen name="image_height">168dp</dimen>
+    <dimen name="cardview_margin">2dp</dimen>
+    <dimen name="cardview_elevation">3dp</dimen>
+    <dimen name="padding_title_recipe">8dp</dimen>
+    <dimen name="constraint_margin">16dp</dimen>
+    <dimen name="height_collapsing">192dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_size_description">14sp</dimen>
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="padding_text">8dp</dimen>
+    <dimen name="aboutme_text_size">12sp</dimen>
+    <dimen name="copyright_text_size">10sp</dimen>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Manjares</string>
+    <string name="image_description">Imagen de la receta</string>
+    <string name="header_description">Imagen decorativa de la aplicación</string>
+    <string name="action_about">Acerca de Manjares</string>
+    <string name="button_home">Botón Inicio. Vuelve a la actividad inicial.</string>
+    <string name="butoon_share">Botón compartir. Comparte la receta en las redes sociales.</string>
+    <string name="recipe_preparacion">Preparación</string>
+    <string name="youtube_error">Error de YouTube: %s</string>
+    <string name="about_fragment_content">Manjares a diario es un canal de YouTube sobre cocina vegana. Un canal de recetas saludables basadas en plantas que proporcionan la energía suficiente y todos los nutrientes necesarios para que nuestro organismo funcione óptimamente. Recetas con sabor, aroma, y color que también encatan a los amantes de la carne y a los niños. Go Vegan!!!\n\nEn esta aplicación puedes encontrar y reproducir todas y cada una de las recetas que se encuentran en este canal gracias a la YouTube Android Player API.</string>
+    <string name="sagrario_content_description">Fotografia de Sagrario, la creadora de las recetas de Manjares.</string>
+    <string name="about_button_text">Licencias</string>
+    <string name="about_copy">&#169;afgl</string>
+    <string name="about_me">Developed by Arturo in 2018</string>
+    <string name="label_about">Acerca de Manjares</string>
+    <string name="manjares">Manjares A Diario</string>
+    <string name="about_button_web">Ver Web</string>
+    <string name="chooser_web">Abrir con:</string>
+</resources>
